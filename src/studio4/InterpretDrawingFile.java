@@ -9,9 +9,6 @@ import javax.swing.SwingUtilities;
 
 import edu.princeton.cs.introcs.StdDraw;
 
-/**
- * @author Dennis Cosgrove (http://www.cse.wustl.edu/~cosgroved/)
- */
 public class InterpretDrawingFile {
 
 	public static void main(String[] args) throws FileNotFoundException {
